@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.bg-cont {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.head {
+  color: white;
+}
+
+.img-size {
+  height: 100px;
+  width: 300px;
+}
